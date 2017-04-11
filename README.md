@@ -1,2 +1,2 @@
 # pragmatic_thinking_and_learning
-读书笔记
+This is the reading notes for the book "Pragmatic Thinking and Learning"
